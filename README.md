@@ -18,5 +18,6 @@ The author is not responsible for misuse or damage caused by this tool.
 ```bash 
 pkg install git -y
 pkg install python -y 
-   
-
+git clone https://github.com/RKD-TEAM/Ddos-Attack-Tool 
+cd Ddos-Attack-Tool
+python ddos.py
