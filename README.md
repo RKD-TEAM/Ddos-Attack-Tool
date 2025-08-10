@@ -15,7 +15,8 @@ Do **NOT** use it for any illegal activities or unauthorized attacks.
 The author is not responsible for misuse or damage caused by this tool.
 
 ## Command:-
-
-
+```bash 
+pkg install git -y
+pkg install python -y 
    
-pkg install git ```bash
+
