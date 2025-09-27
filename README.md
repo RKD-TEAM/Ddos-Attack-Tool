@@ -16,7 +16,11 @@ The author is not responsible for misuse or damage caused by this tool.
 
 ## Command:-
 1.
-```bash 
+```
+pkg update -y && pkg upgrade -y
+```
+2.
+``` 
 pkg install git -y && pkg install python -y 
 ```
 2.
