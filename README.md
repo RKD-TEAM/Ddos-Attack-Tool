@@ -15,9 +15,18 @@ Do **NOT** use it for any illegal activities or unauthorized attacks.
 The author is not responsible for misuse or damage caused by this tool.
 
 ## Command:-
+1.
 ```bash 
-pkg install git -y
-pkg install python -y 
-git clone https://github.com/RKD-TEAM/Ddos-Attack-Tool 
+pkg install git -y && pkg install python -y 
+```
+2.
+```
+git clone https://github.com/RKD-TEAM/Ddos-Attack-Tool
+```
+3. 
+```
 cd Ddos-Attack-Tool
+```
+4.
+```
 python ddos.py
